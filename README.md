@@ -12,7 +12,7 @@ You will need a version of python3, pip and virtualenv.
 ### Installation
 
 ```sh
-$ ./install.sh
+$ source install.sh
 ```
 
 ### Run the project
@@ -22,4 +22,5 @@ $ ./install.sh
 $ jupyter notebook
 ```
 
-Open `Python101.ipynb`.
+This will open Jupyter in your browser.
+Click on `Python101.ipynb`.
