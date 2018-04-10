@@ -18,9 +18,8 @@ $ source install.sh
 ### Run the project
 
 ```sh
-# in your virtualenv
-$ jupyter notebook
+$ source run.sh
 ```
 
 This will open Jupyter in your browser.
-Click on `Python101.ipynb`.
+Click on the notebook `Python101.ipynb` in your browser.
