@@ -45,4 +45,4 @@ $ pipenv run jupyter notebook
 ```
 
 This will open Jupyter in your browser.
-Click on the notebook `Python101.ipynb` in your browser.
+Click on the notebook `Python101-part1.ipynb` in your browser.
