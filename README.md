@@ -25,13 +25,22 @@ https://docs.pipenv.org/#install-pipenv-today
 
 ### Installation
 
-```sh
+```bash
 $ pipenv install
+```
+
+#### Troubleshooting
+
+On macOS, `pipenv install` might get you a `Warning: the environment variable LANG is not set!`.
+To fix it, you can simply add the following lines to your `.profile`:
+```bash
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
 ```
 
 ### Run the project
 
-```sh
+```bash
 $ pipenv run jupyter notebook
 ```
 
