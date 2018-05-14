@@ -41,8 +41,10 @@ export LANG=en_US.UTF-8
 ### Run the project
 
 ```bash
-$ pipenv run jupyter notebook
+# run the first part:
+$ pipenv run jupyter notebook Python101-part1.ipynb
+# later, run the next part:
+$ pipenv run jupyter notebook Python101-part2.ipynb
 ```
 
 This will open Jupyter in your browser.
-Click on the notebook `Python101-part1.ipynb` in your browser.
