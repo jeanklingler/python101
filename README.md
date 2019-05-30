@@ -9,6 +9,13 @@ Based on jupyter notebooks.
 
 You will need a version of python 3.6, and best to use a virtualenv.
 
+Example to get a working venv:
+```bash
+cd <this repo>
+python3 -m venv venv
+source venv/bin/activate
+```
+
 Then, you need to install requirements:
 
 ```bash
