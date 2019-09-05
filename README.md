@@ -7,7 +7,7 @@ Based on jupyter notebooks.
 
 ### Requirements
 
-You will need a version of python 3.6, and best to use a virtualenv.
+You will need a version of python >=3.6, and best to use a virtualenv.
 
 Example to get a working venv:
 ```bash
